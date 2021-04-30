@@ -1,0 +1,16 @@
+.ItemMain {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: .5rem;
+    height: 2rem;
+    margin: 1rem;
+}
+
+.Buttons {
+    display: flex;
+}
+
+button img {
+    max-width: 1.5rem;
+}
